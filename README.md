@@ -8,6 +8,7 @@
 ## Features
 <div>Features of a PDF Page Remover web application include functionalities and capabilities that enhance the user experience and provide utility in removing specific pages from PDF documents. </div>
 
+
 * Signup via Email and password
 * Signin via Email and Password
 * Sign in via Google Authentication
