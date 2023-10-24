@@ -16,4 +16,4 @@
 * Selected Page Number for Removing
 * selected Pages is viwed via help of react pdf
 * Click to Download Modified Pdf
-* View Your Pdf No Your Browser
+* View Your Pdf on Your Browser
