@@ -8,6 +8,11 @@
 ## Features
 <div>Features of a PDF Page Remover web application include functionalities and capabilities that enhance the user experience and provide utility in removing specific pages from PDF documents. </div>
 
-* Google Authentication
-* Mobile Otp Verification
-* Download Friends Notes
+* Signup via Email and password
+* Signin via Email and Password
+* Sign in via Google Authentication
+* Sign in via Phone Otp Verifiaction
+* Upload Pdf
+* Selected Page Number for Removing
+* selected Pages is viwed via help of react pdf
+* Download Friends Modified Pdf
