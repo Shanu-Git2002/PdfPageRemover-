@@ -19,3 +19,8 @@
 * Click to Download Modified Pdf
 * View Your Pdf on Your Browser
 * Logout
+
+<div> 
+<h3>Project Logo</h3>
+  <img src="https://github.com/Shanu-Git2002/PdfPageRemover-/assets/121647061/530a8336-47c1-4df3-8eeb-7e4c30dcd0e5.png" width="270px" height="110px">
+</div>
