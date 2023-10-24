@@ -12,9 +12,10 @@
 * Signin via Email and Password
 * Sign in via Google Authentication
 * Sign in via Phone Otp Verifiaction
-* Upload Pdf
-* Selected Page Number for Removing (Single and Multiple pages can Choose)
-* selected Pages is viwed via help of react pdf
+* File Upload
+* Page Selection (Single and Multiple pages can Choose)
+* Page Preview
+* Page Removal : Perform the actual removal of the selected pages from the PDF document.
 * Click to Download Modified Pdf
 * View Your Pdf on Your Browser
 * Logout
