@@ -13,7 +13,7 @@
 * Sign in via Google Authentication
 * Sign in via Phone Otp Verifiaction
 * Upload Pdf
-* Selected Page Number for Removing
+* Selected Page Number for Removing (Single and Multiple pages can Choose)
 * selected Pages is viwed via help of react pdf
 * Click to Download Modified Pdf
 * View Your Pdf on Your Browser
