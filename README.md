@@ -15,5 +15,5 @@
 * Upload Pdf
 * Selected Page Number for Removing
 * selected Pages is viwed via help of react pdf
-* Click tp ownload Modified Pdf
+* Click to Download Modified Pdf
 * View Your Pdf No Your Browser
