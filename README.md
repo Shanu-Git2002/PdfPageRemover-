@@ -17,3 +17,4 @@
 * selected Pages is viwed via help of react pdf
 * Click to Download Modified Pdf
 * View Your Pdf on Your Browser
+* Logout
