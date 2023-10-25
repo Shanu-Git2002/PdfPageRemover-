@@ -79,6 +79,6 @@
 * Node.js,Firebase
 * 
   ### Insights
-* passpord- firebse Password Authentication strategy for authentication and authorization.
+* passwpord- firebase Password Authentication strategy for authentication and authorization.
 * password- firebase Email Authentication strategy for social authentication through  google.
 * ReCaptcha - firebase recaptcha Authentication strategy for Phone Number Authentication through phone
