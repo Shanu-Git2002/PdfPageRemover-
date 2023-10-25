@@ -44,5 +44,5 @@
 <h3>Home Page </h3>
   <img src="https://github.com/Shanu-Git2002/PdfPageRemover-/assets/121647061/e012093f-9224-42bf-afba-b324a2b61f98.png" width="370" height="230px"> 
   <img src="https://github.com/Shanu-Git2002/PdfPageRemover-/assets/121647061/4397d0d3-bb7f-4cc1-81ea-696223470e28.png" width="370" height="230px"> 
-  <img src="https://user-images.githubusercontent.com/64069582/235888419-c24feb2e-892a-4b3f-8751-df57a1783f01.png" width="370" height="230px">
+  <img src="https://github.com/Shanu-Git2002/PdfPageRemover-/assets/121647061/7cd0cd0d-7a1b-4e4f-ad17-47c72d4dccf8.png" width="370" height="230px">
 </div>
