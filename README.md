@@ -55,3 +55,12 @@
   <img src="https://github.com/Shanu-Git2002/PdfPageRemover-/assets/121647061/4397d0d3-bb7f-4cc1-81ea-696223470e28.png" width="370" height="230px"> 
   <img src="https://user-images.githubusercontent.com/64069582/235889379-69c2a2b7-0f23-4408-9107-7d19ae293afe.png" width="350" height="200px">
 </div>
+
+<div> 
+  <h3>View Single Note</h3> 
+<p> Note Comment and Child Comment , Like Note And Unlike Note ,  Download Friends Notes </p>
+  <img src="https://user-images.githubusercontent.com/64069582/235890406-d6157eec-a4d4-45d8-9a9b-856ca0fde5a7.png" width="370" height="230px"> 
+  <img src="https://github.com/suzelkhan1177/sahinotes_complete/assets/64069582/09ce1b8f-b0af-4864-bdf7-aeaac76e0142" width="370" height="230px"> 
+</br>
+   <img src="https://github.com/suzelkhan1177/sahinotes_complete/assets/64069582/95480d97-5007-4773-92a6-0196d3b9ea9d" width="370" height="230px"> 
+</div>
