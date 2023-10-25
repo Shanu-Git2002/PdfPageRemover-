@@ -51,3 +51,7 @@
    <h3>LogIn Page </h3>
   <img src="https://github.com/Shanu-Git2002/PdfPageRemover-/assets/121647061/2fc57274-3e4e-44dd-850b-9b3c75ad1b9d" width="350" height="200px">
 </div>
+<div> 
+   <h3>Profile Page </h3>
+  <img src="https://user-images.githubusercontent.com/64069582/235889379-69c2a2b7-0f23-4408-9107-7d19ae293afe.png" width="350" height="200px">
+</div>
