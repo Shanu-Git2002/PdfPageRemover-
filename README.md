@@ -31,7 +31,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
 </a> <a href="https://gulpjs.com" target="_blank" rel="noreferrer">
 </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+<img src="https://github.com/Shanu-Git2002/PdfPageRemover-/assets/121647061/0239f32a-61b7-43bb-b982-01b41415ab46" alt="html5" width="40" height="40"/>
 </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
 <img src="https://github.com/Shanu-Git2002/PdfPageRemover-/assets/121647061/0f4ed2ad-bf01-431f-883a-7e9b77718d2e" alt="javascript" width="40" height="40"/>
 </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/Shanu-Git2002/PdfPageRemover-/assets/121647061/bfa5e7a3-4059-4e0d-b4b8-e79d9ca6f79d" alt="mongodb" width="40" height="40"/></a>
@@ -74,3 +74,6 @@
   <img src="https://github.com/Shanu-Git2002/PdfPageRemover-/assets/121647061/7d3ebe3f-e0e0-4233-8360-b5585d51f8fe" width="370" height="230px"> 
 </div>
 
+## Technologies Stack:
+* JSX,CSS,Javascript,jQuery,Ajax,Sass
+* Node.js,MongoDB,Express.js
