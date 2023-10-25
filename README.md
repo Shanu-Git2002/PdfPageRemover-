@@ -55,6 +55,6 @@
 </div>
 
 <div> 
-  <h3>Pdf Viewer</h3> 
+  <h3>View Selected page that you want to delete from your PDF</h3> 
   <img src="https://github.com/Shanu-Git2002/PdfPageRemover-/assets/121647061/4397d0d3-bb7f-4cc1-81ea-696223470e28.png" width="370" height="230px"> 
 </div>
