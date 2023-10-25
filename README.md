@@ -33,10 +33,10 @@
 </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
 </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-<img src="https://github.com/Shanu-Git2002/PdfPageRemover-/assets/121647061/f0383d65-c886-4b2f-b800-7b15fc517ed5" alt="javascript" width="40" height="40"/>
+<img src="https://github.com/Shanu-Git2002/PdfPageRemover-/assets/121647061/0f4ed2ad-bf01-431f-883a-7e9b77718d2e" alt="javascript" width="40" height="40"/>
 </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/Shanu-Git2002/PdfPageRemover-/assets/121647061/bfa5e7a3-4059-4e0d-b4b8-e79d9ca6f79d" alt="mongodb" width="40" height="40"/>
 </a>
-<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
+<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://github.com/Shanu-Git2002/PdfPageRemover-/assets/121647061/f0383d65-c886-4b2f-b800-7b15fc517ed5" alt="nodejs" width="40" height="40"/> </a>
 <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://github.com/Shanu-Git2002/PdfPageRemover-/assets/121647061/edcd7a8d-f7a7-4ec6-bea2-587a01d4978f"
 " width="40" height="40"/>
 </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> </p>
