@@ -82,3 +82,11 @@
 * passwpord- firebase Password Authentication strategy for authentication and authorization.
 * password- firebase Email Authentication strategy for social authentication through  google.
 * ReCaptcha - firebase recaptcha Authentication strategy for Phone Number Authentication through phone
+
+  
+## How to Install
+* Clone the project onto your local machine.
+* Then cd react-auth
+* npm install
+* npm start
+* Visit your app at http://localhost:3000.
