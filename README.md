@@ -58,3 +58,11 @@
   <h3>View Selected page that you want to delete from your PDF</h3> 
   <img src="https://github.com/Shanu-Git2002/PdfPageRemover-/assets/121647061/4397d0d3-bb7f-4cc1-81ea-696223470e28.png" width="370" height="230px"> 
 </div>
+
+<div> 
+  <h3>Upload Note</h3>
+  <h5>Drag & drop upload </h5>
+  <p>No need for any hosting knowledge, simply drag & drop your PDF file.provides a very reliable service to share your PDF. </p>
+  <img src="https://github.com/Shanu-Git2002/PdfPageRemover-/assets/121647061/23fbca55-e84b-4957-8959-7e63a6d07db5
+" width="370" height="230px"> 
+</div>
