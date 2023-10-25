@@ -36,8 +36,9 @@
 <img src="https://github.com/Shanu-Git2002/PdfPageRemover-/assets/121647061/0f4ed2ad-bf01-431f-883a-7e9b77718d2e" alt="javascript" width="40" height="40"/>
 </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/Shanu-Git2002/PdfPageRemover-/assets/121647061/bfa5e7a3-4059-4e0d-b4b8-e79d9ca6f79d" alt="mongodb" width="40" height="40"/>
 </a>
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/Shanu-Git2002/PdfPageRemover-/assets/121647061/bfa5e7a3-4059-4e0d-b4b8-e79d9ca6f79d" alt="mongodb" width="40" height="40"/>
+</a>
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://github.com/Shanu-Git2002/PdfPageRemover-/assets/121647061/f0383d65-c886-4b2f-b800-7b15fc517ed5" alt="nodejs" width="40" height="40"/> </a>
-<a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://github.com/Shanu-Git2002/PdfPageRemover-/assets/121647061/edcd7a8d-f7a7-4ec6-bea2-587a01d4978f"
-" width="40" height="40"/>
-</a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://github.com/Shanu-Git2002/PdfPageRemover-/assets/121647061/05d30796-5cb6-4f9e-89fc-1db788e0b20f"
+<a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://github.com/Shanu-Git2002/PdfPageRemover-/assets/121647061/f7430662-c435-4e59-a81a-70bd23c3acec" width="40" height="40"/>
+</a>
 alt="sass" width="40" height="40"/> </a> </p>
