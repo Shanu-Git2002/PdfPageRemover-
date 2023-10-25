@@ -39,4 +39,5 @@
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://github.com/Shanu-Git2002/PdfPageRemover-/assets/121647061/f0383d65-c886-4b2f-b800-7b15fc517ed5" alt="nodejs" width="40" height="40"/> </a>
 <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://github.com/Shanu-Git2002/PdfPageRemover-/assets/121647061/edcd7a8d-f7a7-4ec6-bea2-587a01d4978f"
 " width="40" height="40"/>
-</a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> </p>
+</a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://github.com/Shanu-Git2002/PdfPageRemover-/assets/121647061/05d30796-5cb6-4f9e-89fc-1db788e0b20f"
+alt="sass" width="40" height="40"/> </a> </p>
