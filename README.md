@@ -43,6 +43,6 @@
 <div>
 <h3>Home Page </h3>
   <img src="https://github.com/Shanu-Git2002/PdfPageRemover-/assets/121647061/bfbf4fd2-bcbd-45bd-b452-e46e9a065584" width="370" height="230px"> 
-  <img src="https://user-images.githubusercontent.com/64069582/235888089-a4d7f406-bc42-4e7f-91fb-0ee7d08830be.png" width="370" height="230px"> 
+  <img src="https://github.com/Shanu-Git2002/PdfPageRemover-/assets/121647061/4397d0d3-bb7f-4cc1-81ea-696223470e28.png" width="370" height="230px"> 
   <img src="https://user-images.githubusercontent.com/64069582/235888419-c24feb2e-892a-4b3f-8751-df57a1783f01.png" width="370" height="230px">
 </div>
