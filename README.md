@@ -69,4 +69,8 @@
   <h3>Mobile Verify</h3>
   <img src="https://github.com/Shanu-Git2002/PdfPageRemover-/assets/121647061/4d83ee64-9988-47a0-b77e-ca107b59e6e1" width="370" height="230px"> 
 </div>
+<div> 
+  <h3>Sign in via Google</h3>
+  <img src="https://github.com/Shanu-Git2002/PdfPageRemover-/assets/121647061/7d3ebe3f-e0e0-4233-8360-b5585d51f8fe" width="370" height="230px"> 
+</div>
 
